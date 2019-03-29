@@ -127,6 +127,8 @@ html,
 body {
   height: 100%;
   color: #dee2e6;
+  background: url("http://i2.hdslb.com/bfs/archive/55ad8892c8aa36e7036c01c64105e5ddcd9930b3.jpg");
+  background-size: 100% 100%;
 }
 html a,
 body a {
